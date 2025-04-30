@@ -94,7 +94,7 @@ print("Lenght of X_test ",len(X_test))
 ![duplicated_values](https://github.com/user-attachments/assets/f91d2b25-689a-4072-b2fb-50aa6461ef73)
 
 ### Description:
-![Uploading describe.png…]()
+![describe](https://github.com/user-attachments/assets/0d32b470-d1c5-44e9-abde-1906ef5bb32b)
 
 ### Normalized Dataset:
 ![normalized](https://github.com/user-attachments/assets/b9add1bf-bfab-42b9-bc93-a7da2a121590)

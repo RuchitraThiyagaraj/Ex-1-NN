@@ -82,21 +82,28 @@ print("Lenght of X_test ",len(X_test))
 ![data](https://github.com/user-attachments/assets/d7e34885-dfd0-449a-9fc2-9c08280b555d)
 
 ### X Values:
+![x_values](https://github.com/user-attachments/assets/4dd01ff8-ca95-4543-afd0-12a43364edfc)
 
 ### Y Values:
-![images](./images/y_values.png)
+![y_values](https://github.com/user-attachments/assets/cafc1b51-0c29-4a6e-9706-cf71f93887a4)
+
 ### Null Values:
-![images](./images/null_values.png)
+![null_values](https://github.com/user-attachments/assets/9bb42d50-afff-40ec-a915-20f4c1b9a551)
+
 ### Duplicated Values:
-![images](./images/duplicated_values.png)
+![duplicated_values](https://github.com/user-attachments/assets/f91d2b25-689a-4072-b2fb-50aa6461ef73)
+
 ### Description:
-![images](./images/describe.png)
+![Uploading describe.png…]()
+
 ### Normalized Dataset:
-![](./images/normalized.png)
+![normalized](https://github.com/user-attachments/assets/b9add1bf-bfab-42b9-bc93-a7da2a121590)
+
 ### Training Data:
-![](./images/training%20.png)
+![training ](https://github.com/user-attachments/assets/b0afccc9-7f6a-4794-8154-2d5e73c45c2f)
+
 ### Testing Data:
-![](./images/test.png)
+![test](https://github.com/user-attachments/assets/e795fcea-32a2-4cae-8ecf-03f4290510e2)
 
 
 ## RESULT:

@@ -79,9 +79,10 @@ print("Lenght of X_test ",len(X_test))
 ```
 ## OUTPUT:
 ### Dataset:
-![images](./images/data.png)
+![data](https://github.com/user-attachments/assets/d7e34885-dfd0-449a-9fc2-9c08280b555d)
+
 ### X Values:
-![images](./images/x_values.png)
+
 ### Y Values:
 ![images](./images/y_values.png)
 ### Null Values:
